@@ -1,6 +1,6 @@
 # Ij Scan Utility
 
-[![ij scan utility](gett-starteed.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
+[![ij scan utility](get-started-now-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
 
 IJ Scan Utility is an application that allows users to scan documents, photos, and more quickly. Users can complete from scanning to storage at once by clicking on the corresponding icon in the [ij scan utility](https://github.com/ij-ijscanutility/) main screen. Setup your canon printer to experience world-class printing quality. Visit: ij scan utility and find them easy and simple download and install steps.
 
